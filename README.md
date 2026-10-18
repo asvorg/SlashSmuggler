@@ -1,6 +1,6 @@
 # SlashSmuggler
 
-SlashSmuggler is a lightweight Python tool for fuzzing raw HTTP/HTTPS paths to test how servers and intermediaries handle encoded slashes, traversal sequences, and path-normalization edge cases.(More info on OWASP)[https://community.owasp.org/Double_Encoding]
+SlashSmuggler is a lightweight Python tool for fuzzing raw HTTP/HTTPS paths to test how servers and intermediaries handle encoded slashes, traversal sequences, and path-normalization edge cases.[More info on OWASP](https://community.owasp.org/Double_Encoding)
 
 ## What it does
 
